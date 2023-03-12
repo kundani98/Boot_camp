@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("pizza.jpg");
+}
+h1 {
+    text-align: center;
+    background-color: White;
+    font-size: 45px;
+}
+
+h2 {
+    text-align: center;
+    background-color: White;
+    font-size: 35px;
+}
+
+#orderForm {
+    background-color: #eeeeee;
+    border: 4px solid yellow;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 8px;
+    box-shadow: 10px 10px 5px #888888;
+}
